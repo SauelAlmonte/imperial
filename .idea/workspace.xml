@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="674f89f5-09f9-4da5-a512-12e6c7cce2c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ui/Body.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignUp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ui/Body.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/Body.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ui/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ui/MainNav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/MainNav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ui/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +80,7 @@
       <updated>1613672698613</updated>
       <workItem from="1613672704310" duration="1251000" />
       <workItem from="1614009413629" duration="2343000" />
-      <workItem from="1614016015943" duration="13552000" />
+      <workItem from="1614016015943" duration="16206000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Boilerplate">
       <created>1614023256932</created>

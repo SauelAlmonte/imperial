@@ -1,6 +1,7 @@
 export const Body = () => (
 
     <>
+
         <div className="flex-grow">
             <div className="md:container max-w-sm h-auto md:w-2/3 md:h-auto m-auto text-center mt-28">
                 <div className="border border-dashed border-black relative h-36 bg-gray-200">
