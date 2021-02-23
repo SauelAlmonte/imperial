@@ -10,11 +10,11 @@ export const Login = () => (
                     <form className="space-y-5">
                         <div>
                             <label className="block mb-1 font-bold text-gray-500">Email/Username</label>
-                            <input type="text" className="w-full border-2 border-gray-200 p-3 rounded outline-none focus:border-purple-500" />
+                            <input type="text" className="w-full border-2 border-black p-3 rounded outline-none focus:border-purple-500" />
                         </div>
                         <div>
                             <label className="block mb-1 font-bold text-gray-500">Password</label>
-                            <input type="password" className="w-full border-2 border-gray-200 p-3 rounded outline-none focus:border-purple-500" />
+                            <input type="password" className="w-full border-2 border-black p-3 rounded outline-none focus:border-purple-500" />
                         </div>
                         <div className="flex items-center">
                             <input type="checkbox" id="agree" />
