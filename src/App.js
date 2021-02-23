@@ -3,6 +3,7 @@ import {About, Contact, Home, Login, Search, SignUp} from "./pages";
 
 function App() {
   return (
+
       <Switch>
         <Route exact path="/" component={Home}/>
         <Route exact path="/About" component={About}/>
