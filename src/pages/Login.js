@@ -1,5 +1,5 @@
 export const Login = () => (
-    <div>
-        <p>Login</p>
+    <div className="p-6 text-xl font-bold">
+        <p>Please Login ...</p>
     </div>
 )

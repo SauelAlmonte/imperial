@@ -1,5 +1,5 @@
-export const About = () => (
+export const Search = () => (
     <div className="p-6 text-2xl font-bold">
-        <h1>About Us</h1>
+        <h1>Search</h1>
     </div>
 )

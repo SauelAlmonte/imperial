@@ -1,5 +1,5 @@
 export const Contact = () => (
-    <div>
-        <p>Contact Us</p>
+    <div className="p-6 text-2xl font-bold">
+        <h1>Contact Us</h1>
     </div>
 )

@@ -9,8 +9,8 @@ export const MainNav = () => (
                 </ul>
                 <div className="flex">
                     <ul className="inline-flex text-black justify-end items-center space-x-3">
-                        <li className="hover:underline text-sm md:text-base">Register</li>
                         <li className="hover:underline text-sm md:text-base">Login</li>
+                        <li className="hover:underline text-sm md:text-base">SignUp</li>
                     </ul>
                 </div>
             </div>

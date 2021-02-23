@@ -1,6 +1,6 @@
 export const SignUp = () => (
-    <div>
-        <h1>Welcome...</h1>
-        <h2>Please Signup</h2>
+    <div className="p-6">
+        <h1 className="text-2xl font-bold">Welcome!</h1>
+        <p className="text-lg font-bold">Please Signup ...</p>
     </div>
 )
