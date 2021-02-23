@@ -4,7 +4,7 @@ export const SignUp = () => (
     <>
         <MainNav/>
             <div className="min-h-screen flex items-center justify-center">
-                <div className="bg-white p-16 rounded shadow-2xl w-2/3 border-2 border-black">
+                <div className="bg-white p-16 rounded-lg shadow-2xl w-2/3 border-2 border-black">
                     <h2 className="text-3xl font-bold mb-10 text-gray-800">Create Your Account</h2>
                     <form className="space-y-5">
                         <div>
