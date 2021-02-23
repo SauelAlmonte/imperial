@@ -4,7 +4,7 @@ export const Search = () => (
     <>
         <MainNav/>
             <div className="p-24 h-auto md:h-screen">
-                <div className="bg-white flex items-center rounded-full shadow-xl border-2 border-black md:max-w-screen-xl mx-auto">
+                <div className="bg-white flex items-center rounded-full shadow-xl border-2 border-black md:max-w-screen mx-auto">
                     <input className="rounded-l-full w-full py-4 px-6 text-gray-700 leading-tight focus:outline-none" id="search" type="text" placeholder="Search" />
 
                         <div className="p-4">

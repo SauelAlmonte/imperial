@@ -1,0 +1,10 @@
+insert into users (id, first_name, last_name) values (1, 'Jermain Gault', 'Gault');
+insert into users (id, first_name, last_name) values (2, 'Ede Sidaway', 'Sidaway');
+insert into users (id, first_name, last_name) values (3, 'Loretta Perone', 'Perone');
+insert into users (id, first_name, last_name) values (4, 'Findley Shotbolt', 'Shotbolt');
+insert into users (id, first_name, last_name) values (5, 'Ephraim Pillman', 'Pillman');
+insert into users (id, first_name, last_name) values (6, 'Barty Forestel', 'Forestel');
+insert into users (id, first_name, last_name) values (7, 'Richard Dundendale', 'Dundendale');
+insert into users (id, first_name, last_name) values (8, 'Borden Bullant', 'Bullant');
+insert into users (id, first_name, last_name) values (9, 'Alanna Arend', 'Arend');
+insert into users (id, first_name, last_name) values (10, 'Etheline Hullock', 'Hullock');
