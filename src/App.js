@@ -1,15 +1,9 @@
-import {Footer, MainNav} from "./components/ui";
+import {Route} from 'react-router-dom'
+import {Home} from "./pages/Home"
 
 function App() {
   return (
-      <>
-          <MainNav/>
-            <div className="p-24">
-              <h1 className="text-4xl">Hello World</h1>
-            </div>
-          <Footer/>
-      </>
-
+      <Route path="/" component={Home}/>
   );
 }
 

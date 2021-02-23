@@ -1,2 +1,3 @@
-export {MainNav} from './MainNav'
-export {Footer} from './Footer'
+export { MainNav } from './MainNav'
+export { Body } from './Body'
+export { Footer } from './Footer'
