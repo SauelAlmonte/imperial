@@ -3,6 +3,7 @@ import express from 'express'
 const app = express()
 const PORT = process.env.PORT || 8080
 const HOST = process.env.HOST || '0.0.0.0'
+// const ENV = (process.env === 'development') ? 'something' : "something"
 
 app.get("/", (req, res) =>
     res.send({response : "OK"}))
