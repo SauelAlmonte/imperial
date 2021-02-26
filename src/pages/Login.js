@@ -4,7 +4,7 @@ export const Login = () => (
     <>
         <MainNav/>
             <div className="min-h-screen flex items-center justify-center">
-                <div className="bg-white p-10 rounded-lg shadow-2xl w-2/3 border-2 border-black">
+                <div className="bg-gray-100 p-10 rounded-lg shadow-2xl w-2/3 border-2 border-black">
                     <h2 className="text-3xl font-bold mb-4 text-gray-800">Welcome!</h2>
                     <h2 className="text-xl font-bold mb-6 text-gray-800">Please Login</h2>
                     <form className="space-y-5">

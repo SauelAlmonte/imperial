@@ -4,7 +4,7 @@ export const Contact = () => (
     <>
         <MainNav/>
             <div className="p-12 flex-grow items-center max-h-full md:max-h-screen">
-                <div className="container p-6 border-2 border-black shadow-lg rounded-lg md:max-w-screen-xl mx-auto justify-center">
+                <div className="container p-6 border-2 border-black shadow-lg rounded-lg md:max-w-screen-xl mx-auto justify-center bg-gray-100">
                     <h4 className="font-bold text-xl mb-2">
                         Contact Us
                     </h4>
