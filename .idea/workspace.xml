@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="674f89f5-09f9-4da5-a512-12e6c7cce2c0" name="Default Changelist" comment="Initial Boilerplate">
-      <change afterPath="$PROJECT_DIR$/public/crown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon1.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon2.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon3.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon4.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon5.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ui/Body.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/Body.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/search.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/search/search.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/search/search.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/search.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,22 +57,46 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="Docker" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/data/search" />
+      <recent name="$PROJECT_DIR$/src/data" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/data/search" />
       <recent name="$PROJECT_DIR$/src/pages2/pages" />
-      <recent name="$PROJECT_DIR$/src/pages/pages2" />
-      <recent name="$PROJECT_DIR$/src/components/ui" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="imperial" />
+          <option name="buildCliOptions" value="" />
+          <option name="buildOnly" value="true" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <configuration name="server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -97,11 +118,15 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
       <item itemvalue="npm.server" />
       <item itemvalue="npm.start" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="npm.server" />
         <item itemvalue="npm.start" />
       </list>
@@ -129,7 +154,17 @@
       <workItem from="1614272167063" duration="171000" />
       <workItem from="1614286907022" duration="5084000" />
       <workItem from="1614310599514" duration="456000" />
-      <workItem from="1614351109031" duration="6703000" />
+      <workItem from="1614351109031" duration="9198000" />
+      <workItem from="1614391242649" duration="19317000" />
+      <workItem from="1614711942297" duration="601000" />
+      <workItem from="1614714688716" duration="9105000" />
+      <workItem from="1614734999422" duration="361000" />
+      <workItem from="1614738444978" duration="2494000" />
+      <workItem from="1614742998458" duration="4409000" />
+      <workItem from="1614791671820" duration="29000" />
+      <workItem from="1614791753064" duration="59000" />
+      <workItem from="1614791892029" duration="3643000" />
+      <workItem from="1614866882465" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Boilerplate">
       <created>1614023256932</created>

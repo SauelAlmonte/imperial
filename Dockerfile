@@ -6,4 +6,4 @@ RUN npm install
 COPY ./src .
 EXPOSE 8080
 
-CMD ["node", "server.mjs"]
+CMD ["node", "src/server.mjs"]

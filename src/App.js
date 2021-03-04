@@ -1,8 +1,11 @@
 import {Route, Switch} from 'react-router-dom'
 import background from "./img/bg2.jpg";
+// import React, {useState, useEffect} from 'react';
 import {About, Contact, Home, Login, Search, SignUp} from "./pages";
 
 function App() {
+
+
   return (
 
       <div className="bg-center bg-local bg-cover bg-no-repeat bg-auto" style={{ backgroundImage: `url(${background})` }}>
