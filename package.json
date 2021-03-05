@@ -18,7 +18,7 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "server": "node ./src/server.mjs",
+    "server": "node /server.mjs",
     "dev": "nodemon src/server.mjs",
     "eject": "react-scripts eject"
   },
