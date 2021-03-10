@@ -18,8 +18,8 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "server": "node ./src/server.mjs",
-    "dev": "nodemon server.mjs",
+    "server": "node src/server.mjs",
+    "dev": "nodemon src/server.mjs",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

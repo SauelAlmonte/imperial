@@ -1,11 +1,11 @@
-version: "3"
+version: '3'
 services:
   app:
     build: .
     depends_on:
       - db
     environment:
-      DATABASE_URL: https://postgresql://192.168.99.103:45432/imperial
+      DATABASE_URL: postgresql://192.168.99.103:45432/imperial
       NODE_ENV: development
       PORT: 8080
     ports:
