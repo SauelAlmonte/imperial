@@ -11,10 +11,10 @@ export const Footer = () => (
                         <h5 className="mb-6 font-bold text-black uppercase">Legal</h5>
                         <ul className="block space-y-2 mb-4">
                             <li className="text-black hover:underline text-sm md:text-base">
-                                <Link to="/">Terms</Link>
+                                <Link to="/Terms">Terms</Link>
                             </li>
                             <li className="text-black hover:underline text-sm md:text-base">
-                                <Link to="/">Privacy</Link>
+                                <Link to="/Privacy">Privacy</Link>
                             </li>
                         </ul>
                     </div>
@@ -23,10 +23,10 @@ export const Footer = () => (
                         <h5 className="mb-6 font-bold text-black uppercase">Social</h5>
                         <ul className="block space-y-2 mb-4">
                             <li className="text-black hover:underline text-sm md:text-base">
-                                <Link to="/">Facebook</Link>
+                                <Link to="/Facebook">Facebook</Link>
                             </li>
                             <li className="text-black hover:underline text-sm md:text-base">
-                                <Link to="/">Twitter</Link>
+                                <Link to="/Twitter">Twitter</Link>
                             </li>
                         </ul>
                     </div>
@@ -40,6 +40,9 @@ export const Footer = () => (
                             <li className="text-black hover:underline text-sm md:text-base">
                                 <Link to="/Contact">Contact</Link>
                             </li>
+                            <li className="text-black hover:underline text-sm md:text-base">
+                                <Link to="/Donate">Donate</Link>
+                            </li>
                         </ul>
                     </div>
 
@@ -47,10 +50,10 @@ export const Footer = () => (
                         <h5 className="mb-6 font-bold text-black uppercase">Links</h5>
                         <ul className="block space-y-2 mb-4">
                             <li className="text-black hover:underline text-sm md:text-base">
-                                <Link to="/">Support</Link>
+                                <Link to="/Support">Support</Link>
                             </li>
                             <li className="text-black hover:underline text-sm md:text-base">
-                                <Link to="/">FAQ</Link>
+                                <Link to="/FAQ">FAQ</Link>
                             </li>
                         </ul>
                     </div>

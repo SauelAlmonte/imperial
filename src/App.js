@@ -1,7 +1,6 @@
 import {Route, Switch} from 'react-router-dom'
 import background from "./img/bg2.jpg";
-// import React, {useState, useEffect} from 'react';
-import {About, Contact, Home, Login, Search, SignUp} from "./pages";
+import { About, Contact, Home, Login, Search, SignUp, Privacy, Terms, Faq, Donate } from "./pages";
 
 function App() {
 
@@ -16,6 +15,10 @@ function App() {
                 <Route exact path="/Login" component={Login}/>
                 <Route exact path="/SignUp" component={SignUp}/>
                 <Route exact path="/Search" component={Search}/>
+                <Route exact path="/Privacy" component={Privacy}/>
+                <Route exact path="/Terms" component={Terms}/>
+                <Route exact path="/Faq" component={Faq}/>
+                <Route exact path="/Donate" component={Donate}/>
               </Switch>
       </div>
   );

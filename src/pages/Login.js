@@ -25,7 +25,6 @@ export const Login = () => (
                         </button>
                     </form>
                 </div>
-
             </div>
         <Footer/>
     </>

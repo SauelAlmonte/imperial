@@ -14,6 +14,9 @@ export const MainNav = () => (
                 <div className="flex">
                     <ul className="inline-flex text-black justify-end items-center space-x-3">
                         <li className="hover:underline text-sm md:text-base">
+                            <Link to="/">Home</Link>
+                        </li>
+                        <li className="hover:underline text-sm md:text-base">
                             <Link to="/Search">Search</Link>
                         </li>
                         <li className="hover:underline text-sm md:text-base">
