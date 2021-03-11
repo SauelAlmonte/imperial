@@ -5,7 +5,7 @@ services:
     depends_on:
       - db
     environment:
-      DATABASE_URL: postgresql://192.168.99.103:45432/imperial
+      DATABASE_URL:
       NODE_ENV: development
       PORT: 8080
     ports:
@@ -21,4 +21,4 @@ services:
     environment:
       POSTGRES_USER: user
       POSTGRES_PASSWORD: pass
-      POSTGRES_DB: imperial
+      POSTGRES_DB: imperial-1
