@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="674f89f5-09f9-4da5-a512-12e6c7cce2c0" name="Default Changelist" comment="Initial Boilerplate">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/search.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/search.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/users.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/users.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +178,7 @@
       <workItem from="1615492617558" duration="9275000" />
       <workItem from="1615503713562" duration="198000" />
       <workItem from="1615503957740" duration="6245000" />
-      <workItem from="1615565977444" duration="6318000" />
+      <workItem from="1615565977444" duration="7389000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Boilerplate">
       <created>1614023256932</created>
