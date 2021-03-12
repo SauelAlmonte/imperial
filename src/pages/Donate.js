@@ -17,13 +17,14 @@ export const Donate = () => (
                     continue providing excellent content and services.
                 </p>
                 <p className="text-center text-xl font-bold">
-                    The Donate button below will bring you to PayPal's Secure Website
+                    The Donation button below will bring you to PayPal's Secure Website
                 </p>
-                <div className="container mt-6">
+                <div className="container mt-6 text-center">
                     <form className="text-center" action="https://www.paypal.com/donate" method="post" target="_top">
+                        <button className="text-center border-0 border-gray-200 bg-yellow-400 rounded-3xl py-3 px-6 font-bold text-xl hover:bg-yellow-400">Donations</button>
                         <input type="hidden" name="hosted_button_id" value="3ZSQTCU6QZS3A" />
-                        <input className="w-56" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"  name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-                        <img className="" alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                        {/*<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />*/}
+                        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
                     </form>
                 </div>
             </div>
