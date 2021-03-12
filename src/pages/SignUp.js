@@ -27,8 +27,8 @@ export const SignUp = () => (
                             <input type="checkbox" id="agree" />
                                 <label htmlFor="agree" className="ml-2 text-gray-700 text-sm">I agree to the terms and privacy.</label>
                         </div>
-                        <button
-                            className="block w-full p-4 rounded text-black transition duration-300 border-2 border-black">Sign Up
+                        <button className="block w-full p-4 rounded text-black transition duration-300 border-2 border-black text-xl font-bold hover:bg-gray-200">
+                            Sign Up
                         </button>
                     </form>
                 </div>

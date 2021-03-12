@@ -41,7 +41,7 @@ export const Footer = () => (
                                 <Link to="/Contact">Contact</Link>
                             </li>
                             <li className="text-black hover:underline text-sm md:text-base">
-                                <Link to="/Donate">Donate</Link>
+                                <Link to="/Donate">Donations</Link>
                             </li>
                         </ul>
                     </div>
