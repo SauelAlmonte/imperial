@@ -15,7 +15,7 @@ export const SocialFollow = () => {
             <div className="flex flex-grow min-h-screen items-center justify-center mt-10">
                 <div className="bg-white p-10 rounded-lg shadow-2xl w-2/3 border-2 border-black">
                     <div className="social-container">
-                        <h3 className="text-black text-6xl mb-3 text-center">Social Follow</h3>
+                        <h3 className="text-black text-6xl mb-3 text-center">Social Sites</h3>
                         <div className="text-center my-6">
 
                             <a href="https://www.youtube.com/"
