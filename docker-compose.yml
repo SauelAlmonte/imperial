@@ -1,4 +1,4 @@
-version: '3'
+version: "3"
 services:
   app:
     build: .
@@ -7,7 +7,7 @@ services:
     environment:
       DATABASE_URL:
       NODE_ENV: development
-      PORT: 5000
+      PORT: 8080
     ports:
       - "5022:5000"
     command: npm run server
