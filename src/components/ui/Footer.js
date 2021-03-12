@@ -23,10 +23,10 @@ export const Footer = () => (
                         <h5 className="mb-6 font-bold text-black uppercase">Social</h5>
                         <ul className="block space-y-2 mb-4">
                             <li className="text-black hover:underline text-sm md:text-base">
-                                <Link to="/Facebook">Facebook</Link>
+                                <Link to="/SocialFollow">Facebook</Link>
                             </li>
                             <li className="text-black hover:underline text-sm md:text-base">
-                                <Link to="/Twitter">Twitter</Link>
+                                <Link to="/SocialFollow">Twitter</Link>
                             </li>
                         </ul>
                     </div>

@@ -1,6 +1,6 @@
 import {Route, Switch} from 'react-router-dom'
 import background from "./img/bg2.jpg";
-import { About, Contact, Home, Login, Search, SignUp, Privacy, Terms, Faq, Donate } from "./pages";
+import { About, Contact, Home, Login, Search, SignUp, Privacy, Terms, Faq, Donate, SocialFollow } from "./pages";
 
 function App() {
 
@@ -19,6 +19,7 @@ function App() {
                 <Route exact path="/Terms" component={Terms}/>
                 <Route exact path="/Faq" component={Faq}/>
                 <Route exact path="/Donate" component={Donate}/>
+                <Route exact path="/SocialFollow" component={SocialFollow}/>
               </Switch>
       </div>
   );
