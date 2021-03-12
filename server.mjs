@@ -13,6 +13,18 @@ app.get('/search', (req, res) =>
 app.get('/about', (req, res) =>
     res.send("About Us"))
 
+// app.get('/login', (req, res) =>
+//     res.send("Please Login"))
+//
+// app.get('/signup', (req, res) =>
+//     res.send("Please SignUp"))
+//
+// app.get('/terms', (req, res) =>
+//     res.send("Terms"))
+//
+// app.get('/privacy', (req, res) =>
+//     res.send("Privacy"))
+
 // app.get('/new', (req, res) =>
 //     res.send("Hello"))
 
