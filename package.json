@@ -22,8 +22,8 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "server": "node server.mjs",
-    "dev": "nodemon server.mjs",
+    "server": "node app/server.mjs",
+    "dev": "nodemon app/server.mjs",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
